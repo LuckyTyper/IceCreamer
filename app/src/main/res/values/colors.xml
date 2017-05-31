@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#525f77</color>
+    <color name="colorPrimaryDark">#3B4356</color>
+
+    <item name="darkorange" type="color">#FED002</item>
+    <item name="darkred" type="color">#BF3415</item>
+    <item name="colorPrimaryLight" type="color">#7d89a0</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+        <item>@color/colorPrimaryLight</item>
+    </integer-array>
+
+
+</resources>

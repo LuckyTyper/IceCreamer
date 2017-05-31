@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LearnX</string>
+    <string name="nav_menu_item_home">Home</string>
+    <string name="nav_menu_item_contacts">Contacts</string>
+    <string name="nav_menu_item_email">Email</string>
+    <string name="nav_menu_item_phone">Phone</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="some_text">Speed Reading</string>
+    <string name="title_activity_speed_read">speedRead</string>
+    <string name="title_activity_mind_maping">mindMaping</string>
+    <string name="title_activity_concentration">concentration</string>
+    <string name="some_long_text">\t This is probably the only tool of this kind that does not upload
+        your images on the webserver to do the magic. Because of the goodies in the HTML5 standard
+        it is now possible to do all the image processing inside the web browser without uploading
+        image.
+    </string>
+</resources>
